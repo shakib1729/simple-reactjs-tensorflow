@@ -88,7 +88,7 @@ const TensorflowExample = () => {
   return (
     <div className='tensorflow-example'>
       <div className='train-controls'>
-        <h2 className='section'>Training data (x, y) pairs</h2>
+        <h2 className='section'>Training dataset (x, y) pairs</h2>
         <div className='row labels'>
           <div className='field-label column'>X</div>
           <div className='field-label column'>Y</div>
